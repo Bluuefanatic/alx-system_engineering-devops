@@ -1,3 +1,4 @@
+#!/usr/bin/pup
 # Install Flask from pip3
 
 package { 'Flask':
